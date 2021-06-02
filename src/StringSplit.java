@@ -10,10 +10,6 @@ public class StringSplit {
 		for(String S:Array)
 			System.out.println(S);
 		
-		for (int i=0;i<Array.length;i++) {
-			
-			System.out.println(Array[i]);
-		}
 		
 	}
 
